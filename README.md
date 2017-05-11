@@ -1,6 +1,6 @@
 # Dictionary
-A dictionary of words read from a file or manually inputted by the user.
+A program of words read from a file or manually entered by the user at the terminal/command line.
 
 This is an example of managing a large data collection using a hash algorithm.
 
-This program
+The program was written with a focus on efficiency.
